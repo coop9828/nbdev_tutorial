@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://coop9828.github.io/nbdev_tutorial"
+  description: "In class tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/coop9828/nbdev_tutorial"
